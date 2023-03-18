@@ -32,7 +32,7 @@ SVM算法在鸢尾花数据集上的训练和测试过程，以及模型的评�
 
 ## 四、关键程序代码释义
 
-参考本项目的SVM算法代码，[点击打开svm.py]([file:./../svm.py](https://github.com/liuqi34584/iris/blob/main/svm.py))
+参考本项目的SVM算法代码，[点击打开svm.py](https://github.com/liuqi34584/iris/blob/main/svm.py)
 
 ## 五、结果展示及分析
 1. 结果可视化展示四维的鸢尾花分类散点图，并且在最后输出测试的准确率，在实验过程中，测试集的准确率达到了100%，结果如下图：
